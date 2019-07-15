@@ -1,0 +1,3 @@
+rootProject.name = 'Speakers'
+
+include ':app'
